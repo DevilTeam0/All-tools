@@ -28,7 +28,7 @@ figlet T-INSTALLER  | lolcat
 echo  "       +=======================================+" |lolcat
 echo  "       |..........Tool Installer v1.0 .........|" |lolcat
 echo  "       +---------------------------------------+" |lolcat
-echo  "       |#Author   : Stephin-Franklin           |" |lolcat
+echo  "       |#Author   : anonymous Alb           |" |lolcat
 echo  "       |#Instagram: Is Not Active                  |" |lolcat
 echo  "       |#Github   : DevilTeam0|" |lolcat
 echo  "       |#YouTube  : Devil TEAM            |" |lolcat
